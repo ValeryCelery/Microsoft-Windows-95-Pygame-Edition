@@ -1,6 +1,11 @@
-# Windows 98 Made in Python
-Windows 98 MiP (Made in Python) is a Windows 98 recreation made in Python.
+# Microsoft Windows 95 Pygame Edition
 
-DISCLAIMER: This project is not affiliated with Microsoft, and it is a **recreation** of a Microsoft product that reached its EOL long time ago.
+Yes, this is the "Microsoft Windows 95 Pygame Edition" project. Contact email: contact.vqlerycqlery@gmail.com
 
-🚧 WIP 🚧: It is under contruction. I still have a long list to code and research to finish this project...
+### ----- NOTICE -----
+
+``WE ARE NOT AFFILIATED WITH MICROSOFT, THIS PROJECT WAS MADE PURELY OUT OF FUN AND INTEREST. “MICROSOFT” AND “WINDOWS” ARE PROTECTED TRADEMARKS THAT WE DO NOT OWN. THIS IS NOT AN OFFICIAL MICROSOFT PRODUCT, THIS IS A RECREATION OF IT MADE BY A DIFFERENT PERSON NOT ASSOCIATED WITH THE CORPORATION.``
+
+### ABOUT
+
+"Microsoft Windows 95 Pygame Edition" is a recreation of an original product "Microsoft Windows 95", made in Python using the library ``pygame``. The project's goal is to try and make it near-identical to the original product. I try hard to make it possible. While I cannot really recreate the monolithic kernel, I can at least recreate the UI, apps, etc.
