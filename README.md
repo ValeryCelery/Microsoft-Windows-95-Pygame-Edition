@@ -9,3 +9,7 @@ Yes, this is the "Microsoft Windows 95 Pygame Edition" project. Contact email: c
 ### ABOUT
 
 "Microsoft Windows 95 Pygame Edition" is a recreation of an original product "Microsoft Windows 95", made in Python using the library ``pygame``. The project's goal is to try and make it near-identical to the original product. I try hard to make it possible. While I cannot really recreate the monolithic kernel, I can at least recreate the UI, apps, etc.
+
+### PROGRESS
+
+undone, literally baby steps into making it.
