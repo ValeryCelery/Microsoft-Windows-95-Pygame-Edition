@@ -16,4 +16,4 @@ Report 1: Window focus works properly now.
 
 (yeah, thats it.)
 
-Update: Since I was into computing, I was installing software (operating systems) that came to my mind on my PC. During this, I have may forgot to back up the project that I've been working on solo. That means, **I won't be continuing on developing this project anymore.** However, it isn't final yet, I will be trying to search for it with all my desire for this project, since I'm not ready to lose it. If I won't be able to find the project folder, I will be deleting this repository.
+Update: guess i have to start over, i backed up the wrong project folder.
