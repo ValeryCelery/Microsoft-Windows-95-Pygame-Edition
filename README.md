@@ -13,7 +13,4 @@ Yes, this is the "Microsoft Windows 95 Pygame Edition" project. Contact email: c
 ### PROGRESS
 
 Report 1: Window focus works properly now.
-
-(yeah, thats it.)
-
-Update: guess i have to start over, i backed up the wrong project folder.
+Report 2: Windows are now movable.
